@@ -1,9 +1,17 @@
 ## Hi there 👋
 ##### More projects are coming in future I promise...
 <h3 text-align="center">
-Here is pointless summarization of my statistics that I stole:
+Here is summarization of my statistics:
 </h3>
-<p align="center">
-<img width="430em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=qonus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight&count_private=true"/>
-<img width="370em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=qonus&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight&count_private=true"/>
-</p>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=qonus&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=qonus&show_icons=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=qonus&show_icons=true" />
+</picture>
