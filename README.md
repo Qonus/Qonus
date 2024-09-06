@@ -13,5 +13,5 @@ Here is summarization of my statistics:
     srcset="https://github-readme-stats.vercel.app/api?username=qonus&show_icons=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=qonus&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qonus&show_icons=true&theme=dark" />
 </picture>
