@@ -4,6 +4,7 @@
 Here is summarization of my statistics:
 </h3>
 
-![Qonus's GitHub stats](https://github-readme-stats.vercel.app/api?username=qonus&count_private=true&show_icons=true&theme=dark)
+![qonus's Stats](https://github-readme-stats.vercel.app/api?username=qonus&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![qonus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=qonus&theme=dark&hide_border=true)
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qonus&hide=ShaderLab,hlsl&theme=dark&layout=compact)
+![qonus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qonus&theme=dark&show_icons=true&hide_border=true&layout=compact)
