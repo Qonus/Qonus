@@ -4,14 +4,6 @@
 Here is summarization of my statistics:
 </h3>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=qonus&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=qonus&show_icons=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=qonus&show_icons=true&theme=dark" />
-</picture>
+![Qonus's GitHub stats](https://github-readme-stats.vercel.app/api?username=qonus&count_private=true&show_icons=true&theme=dark)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qonus&hide=ShaderLab,hlsl&theme=dark)
