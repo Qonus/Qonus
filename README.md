@@ -6,4 +6,4 @@ Here is summarization of my statistics:
 
 ![Qonus's GitHub stats](https://github-readme-stats.vercel.app/api?username=qonus&count_private=true&show_icons=true&theme=dark)
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qonus&hide=ShaderLab,hlsl&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qonus&hide=ShaderLab,hlsl&theme=dark&layout=compact)
