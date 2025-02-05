@@ -1,4 +1,8 @@
 ## Hi there 👋
+### Contacts
+email: a1batkonus1@gmail.com
+telegram: @qonus
+
 ##### More projects are coming in future I promise...
 <h3 text-align="center">
 Here is summarization of my statistics:
