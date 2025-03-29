@@ -1,8 +1,6 @@
 ## Hi 👋
 ### Contact me
 email: a1batkonus1@gmail.com
-<br>
-telegram: @qonus
 
 <button><h3 align="left">Languages and Tools:</h3></button>
 
