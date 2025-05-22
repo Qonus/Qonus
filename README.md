@@ -90,5 +90,5 @@ email: a1batkonus1@gmail.com
 Here is summarization of my statistics:
 </h3>
 
-![qonus's Stats](https://github-readme-stats.vercel.app/api?username=qonus&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![qonus's Stats](https://github-readme-stats.vercel.app/api?username=qonus&theme=dark&show_icons=true&hide_border=true&count_private=false)
 ![qonus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=qonus&theme=dark&hide_border=true)
